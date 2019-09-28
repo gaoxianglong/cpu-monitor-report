@@ -1,4 +1,4 @@
-package com.yunji.monitor.report.core;
+package com.github.monitor.report.core;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.jvm.sandbox.api.Information;

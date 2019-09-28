@@ -1,4 +1,4 @@
-package com.yunji.monitor.report.core;
+package com.github.monitor.report.core;
 
 import java.net.InetAddress;
 import java.net.NetworkInterface;
