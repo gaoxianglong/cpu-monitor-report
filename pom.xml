@@ -19,7 +19,7 @@
     <properties>
         <org.slf4j-version>1.6.6</org.slf4j-version>
         <commons-version>3.4</commons-version>
-        <junit-version>4.8.2</junit-version>
+        <junit-version>4.13.1</junit-version>
         <annotation-version>1.2</annotation-version>
         <java-version>1.7</java-version>
         <kafka-version>1.1.0</kafka-version>
